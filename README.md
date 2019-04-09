@@ -8,8 +8,9 @@ Android kullanılarak proje gerçekleşimi sağlanmıştır.Proje kontrol yapıs
  <br>
  <br>
 <p>
-<img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/43750173/55806210-857d3a80-5ae8-11e9-8cf6-f705261b2b5d.PNG">
-	https://user-images.githubusercontent.com/43750173/55800518-92942c80-5adc-11e9-8779-9eccba123938.jpg
+<img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/43750173/55806210-857d3a80-5ae8-11e9-8cf6-f705261b2b5d.PNG">
+	<img align="center" width="400" height="300" src="https://user-images.githubusercontent.com/43750173/55800518-92942c80-5adc-11e9-8779-9eccba123938.jpg">
+	
 </p>
 
 <h2>Kullanılan teknolojiler</h2><br>
