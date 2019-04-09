@@ -37,8 +37,8 @@ Android Studio 2.2; telefonlar ve tabletler, Android Auto, Android Wear ve Andro
 ESP8266 modülünden biraz bahsetmek gerekirse, modül hem kablosuz ağlara bağlanabiliyor hem de kablosuz ağ erişim noktası kurabiliyor. Bunun yanında modül kendi işlemcisine sahip olduğundan üzerindeki giriş çıkış pinleri de kullanılabilmektedir. Yani ek olarak Arduino benzeri bir mikrokontrolcü kartı kullanmadan da sadece modülü kullanarak projeler gerçekleştirebilmek mümkün.
 <br>
 <br>
-2.Role Kullanımı
-Röle üzerinden akım geçtiği zaman çalışan elektromanyetik bir devre elemanıdır.Röleler küçük değerli bir akım ile yüksek güçlü bir alıcıyı anahtarlayabilmek için kullanılır.
+2.Role Kullanımı
+Röle üzerinden akım geçtiği zaman çalışan elektromanyetik bir devre elemanıdır.Röleler küçük değerli bir akım ile yüksek güçlü bir alıcıyı anahtarlaya bilmek için kullanılır.
  <br>
 <br>
 <img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55805288-cf652100-5ae6-11e9-8fea-3d0eca781027.jpg" >
