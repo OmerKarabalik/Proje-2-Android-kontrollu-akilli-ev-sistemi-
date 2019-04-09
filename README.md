@@ -34,7 +34,6 @@ Android Studio 2.2; telefonlar ve tabletler, Android Auto, Android Wear ve Andro
 </p>
 1.Esp8266 Kullanımı<br><br>
 ESP8266 modülünden biraz bahsetmek gerekirse, modül hem kablosuz ağlara bağlanabiliyor hem de kablosuz ağ erişim noktası kurabiliyor. Bunun yanında modül kendi işlemcisine sahip olduğundan üzerindeki giriş çıkış pinleri de kullanılabilmektedir. Yani ek olarak Arduino benzeri bir mikrokontrolcü kartı kullanmadan da sadece modülü kullanarak projeler gerçekleştirebilmek mümkün.
-<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55804948-1b639600-5ae6-11e9-810f-05bebe0c99b3.png" >
 <br>
 <br>
 2.Role Kullanımı
