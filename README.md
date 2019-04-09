@@ -37,47 +37,20 @@ ESP8266 modülünden biraz bahsetmek gerekirse, modül hem kablosuz ağlara bağ
 <img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55804948-1b639600-5ae6-11e9-810f-05bebe0c99b3.png" >
 <br>
 <br>
-2.Role KullanımıRöle üzerinden akım geçtiği zaman çalışan elektromanyetik bir devre elemanıdır. Röleler küçük değerli bir akım ile yüksek güçlü bir alıcıyı anahtarlayabilmek için kullanılır.
+2.Role Kullanımı
+Röle üzerinden akım geçtiği zaman çalışan elektromanyetik bir devre elemanıdır.Röleler küçük değerli bir akım ile yüksek güçlü bir alıcıyı anahtarlayabilmek için kullanılır.
  <br>
 <br>
-<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55804948-1b639600-5ae6-11e9-810f-05bebe0c99b3.png" >
-<img align="left" width="500" height="300" src="https://user-images.githubusercontent.com/43750173/55800510-9031d280-5adc-11e9-8bef-d6f38e31d98a.PNG" ><br> <br>Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.<br><br>
-Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaseteki  ilgili yerler açık veya kapalı olarak değiştirilmiştir!
- <br>
- <br>
-
-
- 
- <br>
- <br>
-  <br>
- <br>SQLİTE ve sayfa yapısındaki durumlar resimle gösterilmiştir!<br>
-  <br><br>
-  
- <img align="center" width="800" height="300" src="https://user-images.githubusercontent.com/43750173/55800509-8f993c00-5adc-11e9-9f96-647fd7892045.PNG" >
- <br>
- <br>
- Raspberry pi GPIO kütüphaneleriyle gerekli emulatör kurulmuştur.Test için gerekli dosyalar sayfa yapısında bulunmaktadır.Veritabanında bulunan eşyalara göre GPIO giriş çıkışları sağlanarak emulatör de test ortamı kurulmuştur.<br>
- <br>
- <br>
-
- <img align="left" width="600" height="300" src="https://user-images.githubusercontent.com/43750173/55800526-958f1d00-5adc-11e9-94bc-b74b2f31847b.PNG" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
-  
- <br>
- <br>
-Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir! <br>
- <br>
- <br>
-<br>Aynı zamanda internet üzerinde güncellemesi de sayfa yardımıyla 3 'er saniye aralıklarla güncellenerek gösterilmiştir!
-<br>
- <br><br>
+<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55805288-cf652100-5ae6-11e9-8fea-3d0eca781027.jpg" >
 <p>
- <img align="center" width="800" height="400" src="https://user-images.githubusercontent.com/43750173/55800514-92942c80-5adc-11e9-8e44-f672f1a94ff6.PNG">
-</p><br><br><br>
+<img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/43750173/55805289-cffdb780-5ae6-11e9-9c85-be1926fd2c37.jpg" >
+ <img align="center" width="350" height="300" src="https://user-images.githubusercontent.com/43750173/55805291-cffdb780-5ae6-11e9-9aa0-4f298b064712.jpg">
+</p>
+ 
 <h2>Proje Sonuçları</h2> 
  <br>
 <br> <br>
- Akıllı Ev Sistemi, web teknoloji ev otomasyonu ile geliştirilip veritabanına aktarılmıştır.İlk önce web sitesi üzerinde güncelleme yapıldı daha sonra raspberri pi üzerinde yapıldı en son iki uygulama aynı projede birleştirildi!En çok web sitesi üzerinden Emulatöre erişim de sıkıntı yaşandı yapılan diğer işlemler başarıyla gerçekleştirildi. 
+ Akıllı Ev Sistemi, Android Telefon ile kontrolü gerçekleştirilip sistem sağlanmıştır.Kendi yaptığım Android studio nun bağlantı kısmında sıkıntılar çıktı.Bu yüzden hazır uygulama kullandım!
  <br>
 <br> <br>
- <img align="center" width="850" height="500" src="https://user-images.githubusercontent.com/43750173/55800513-91fb9600-5adc-11e9-9059-5aab7bd5721f.PNG">
+ <img align="center" width="850" height="500" src="https://user-images.githubusercontent.com/43750173/55805293-d0964e00-5ae6-11e9-93fb-bd241f319bb4.PNG">
